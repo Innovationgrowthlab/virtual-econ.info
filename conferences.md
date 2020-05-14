@@ -4,6 +4,17 @@
 
 A list of virtual conferences to learn about cool economics things without having to jump into a seething mass of plague vectors.
 
+### IGL2020 Virtual Research Meeting
+
+This webinar series will provide a forum to present state-of-the art academic research using experimental methods in the field of innovation, entrepreneurship and growth, and to test potential innovations to accelerate these.
+
+**Dates:** Every Thursday between 04/06/20 and 09/07/20 
+
+**Time:** 15:00-16:00 BST
+
+**Programme & Registration:** [Please click here] (https://innovationgrowthlab.org/programme-0)
+
+
 ### Canadian Economic Theory Conference 2020
 
 This year's conference is organized by the University of British Columbia.
